@@ -72,9 +72,10 @@ Creación de repositorio y subir archivos del proyecto
 ### Integrante 3 - Agustin Coccia
 
 **Descripción:**
+-Creacion de la rama "buscar-profesores" y del archivo "buscar-profesores"
 
 **Capturas:**
-
+![alt text](image.png)
 ---
 
 ## 📱 Objetivo del proyecto
