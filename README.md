@@ -41,7 +41,7 @@ ProfeYa es una aplicación que conecta alumnos con profesores particulares de ma
 
 ## 📸 Registro de avances y cambios
 
-### Integrante 1
+### Integrante 1 - Sofía Rasi
 
 **Descripción:**
 Creación de repositorio y subir archivos del proyecto
@@ -54,7 +54,7 @@ Creación de repositorio y subir archivos del proyecto
 
 ---
 
-### Integrante 2
+### Integrante 2 - Damian Palacios
 
 **Descripción:**
 
@@ -64,7 +64,7 @@ Creación de repositorio y subir archivos del proyecto
 
 ---
 
-### Integrante 3
+### Integrante 3 - Agustin Coccia
 
 **Descripción:**
 
