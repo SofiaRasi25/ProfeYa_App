@@ -47,6 +47,7 @@ ProfeYa es una aplicación que conecta alumnos con profesores particulares de ma
 Creación de repositorio y subir archivos del proyecto
 
 **Capturas:**
+
 <img width="828" height="191" alt="image" src="https://github.com/user-attachments/assets/88a9f61e-6bf3-4944-9b21-586c7b7f3d7b" />
 <img width="870" height="375" alt="image" src="https://github.com/user-attachments/assets/ee11fe17-e24b-44bf-918e-57078217ee1a" />
 <img width="886" height="719" alt="image" src="https://github.com/user-attachments/assets/b5b9ea93-949a-4f88-a679-2a98cb6ddd2c" />
