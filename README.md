@@ -57,10 +57,15 @@ Creación de repositorio y subir archivos del proyecto
 ### Integrante 2 - Damian Palacios
 
 **Descripción:**
-
+-creamos rama "landing-mejoras" y se modifico el index.html, para mejorar el formato.
 
 **Capturas:**
 
+![imagen](<img width="756" height="466" alt="imagen1" src="https://github.com/user-attachments/assets/631e59eb-48fe-4597-a9b6-6c939cb17df4" />)
+
+![imagen](<img width="754" height="466" alt="imagen2" src="https://github.com/user-attachments/assets/dfedeeb5-6832-44e5-9bc1-a798bf469e9c" />)
+
+![imagen](<img width="746" height="452" alt="imagen3" src="https://github.com/user-attachments/assets/7e22faa3-46ea-4ede-a888-f2af18cc91ba" />)
 
 ---
 
